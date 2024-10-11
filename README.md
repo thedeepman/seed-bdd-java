@@ -1,7 +1,7 @@
 # seed-bdd-java
 Seed Project for using Behavior Driven Development in Java
 
-Uses [behave](https://behave.readthedocs.io/en/stable/) for BDD using [Gherkin](https://cucumber.io/docs/gherkin/reference/) syntax
+Uses Maven Cucumber Archetype to setup using [Gherkin](https://cucumber.io/docs/gherkin/reference/) syntax. Based off [Cucumber's Tutorial](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java)
 
 Project Structure
 - Gherkin features named .feature in 'src\test\resources'

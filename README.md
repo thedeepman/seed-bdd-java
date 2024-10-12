@@ -11,8 +11,8 @@ Project Structure
   - Can reuse steps across features and other optimization
 
 ### Instructions
+This is a template repo. Follow [these instruction](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) to generate repo out of template
 Standard maven setup
-- Clone repo
 - Run 'mvn clean install' for initial setup
 - 'mvn test' to run all tests including BDD
 

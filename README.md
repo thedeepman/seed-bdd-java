@@ -5,7 +5,7 @@ Uses Maven Cucumber Archetype to setup using [Gherkin](https://cucumber.io/docs/
 
 Project Structure
 - Gherkin features named .feature in 'src\test\resources'
-- Step definitions inside 'src\java\'. Can be in different packages and subpackages within
+- Step definitions inside 'src\test\java\'. Can be in different packages and subpackages within
   - Step definitions are actual java files
 - A feature can have multiple step definition files and vice versa
   - Can reuse steps across features and other optimization
